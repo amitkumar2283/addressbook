@@ -1,7 +1,7 @@
 @echo off
 echo %ART_ID% : %ART_URL% 
 echo %REL_ART_ID% : %REL_ART_URL%
-
+echo I am Rahul.
 set REL_ART_ID=release-qa
 SET REL_ART_URL=http://localhost:8081/repository/release-qa/
 
